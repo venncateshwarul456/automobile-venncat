@@ -17,6 +17,7 @@ namespace CompanyApp.Models
             Name = name;
             Department = department;
             Salary = salary;
+            this is modified for main file
             DateOfJoining = dateOfJoining;
         }
 
